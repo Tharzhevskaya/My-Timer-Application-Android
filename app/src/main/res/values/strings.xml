@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">TIMER</string>
+    <string name="start">Start/continue counting!</string>
+    <string name="stop">Stop counting!</string>
+
+    <string-array name="number_strings">
+        <item>один</item>
+        <item>два</item>
+        <item>три</item>
+        <item>четыре</item>
+        <item>пять</item>
+        <item>шесть</item>
+        <item>семь</item>
+        <item>восемь</item>
+        <item>девять</item>
+        <item>десять</item>
+        <item>одиннадцать</item>
+        <item>двенадцать</item>
+        <item>тринадцать</item>
+        <item>четырнадцать</item>
+        <item>пятнадцать</item>
+        <item>шестнадцать</item>
+        <item>семнадцать</item>
+        <item>восемнадцать</item>
+        <item>девятнадцать</item>
+        <item>двадцать</item>
+        <item>тридцать</item>
+        <item>сорок</item>
+        <item>пятьдесят</item>
+        <item>шестьдесят</item>
+        <item>семьдесят</item>
+        <item>восемьдесят</item>
+        <item>девяносто</item>
+        <item>сто</item>
+        <item>двести</item>
+        <item>триста</item>
+        <item>четыреста</item>
+        <item>пятьсот</item>
+        <item>шестьсот</item>
+        <item>семьсот</item>
+        <item>восемьсот</item>
+        <item>девятьсот</item>
+        <item>тысяча</item>
+    </string-array>
+
+    <integer-array name="numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+        <item>400</item>
+        <item>500</item>
+        <item>600</item>
+        <item>700</item>
+        <item>800</item>
+        <item>900</item>
+        <item>1000</item>
+    </integer-array>
+</resources>
+
+
